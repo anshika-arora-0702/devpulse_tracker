@@ -1,0 +1,10 @@
+{
+  "base_url": "https://meta.discourse.org/",
+  "bot_usernames": [],
+  "support_category_ids": [],
+  "excluded_tags": ["announcement", "event"],
+  "unanswered_after_hours": 24,
+  "followup_after_hours": 72,
+  "solved_field": "has_answered",
+  "solved_value": true
+}
